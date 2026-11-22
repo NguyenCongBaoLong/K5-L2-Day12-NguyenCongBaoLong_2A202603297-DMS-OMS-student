@@ -1,0 +1,36 @@
+﻿image,label,field,issue,mine,peer,verdict,guideline_rule,action
+D01.png,face,eye_left,khác giá trị (IoU=0.84),unknown,open,mine,GUIDE 4.5,Keep mine label per review; export unchanged.
+D01.png,face,eye_right,khác giá trị (IoU=0.84),unknown,open,mine,GUIDE 4.5,Keep mine label per review; export unchanged.
+D01.png,face13,left_eye_outer.occluded,khác cờ,1,0,mine,GUIDE 4.6,Keep mine label per review; export unchanged.
+D01.png,face13,left_eye_inner.occluded,khác cờ,1,0,mine,GUIDE 4.6,Keep mine label per review; export unchanged.
+D01.png,face13,left_eye_upper.occluded,khác cờ,1,0,mine,GUIDE 4.6,Keep mine label per review; export unchanged.
+D01.png,face13,left_eye_lower.occluded,khác cờ,1,0,mine,GUIDE 4.6,Keep mine label per review; export unchanged.
+D01.png,face13,right_eye_outer.occluded,khác cờ,1,0,mine,GUIDE 4.6,Keep mine label per review; export unchanged.
+D01.png,face13,right_eye_inner.occluded,khác cờ,1,0,mine,GUIDE 4.6,Keep mine label per review; export unchanged.
+D01.png,face13,right_eye_upper.occluded,khác cờ,1,0,mine,GUIDE 4.6,Keep mine label per review; export unchanged.
+D01.png,face13,right_eye_lower.occluded,khác cờ,1,0,mine,GUIDE 4.6,Keep mine label per review; export unchanged.
+D02.png,face,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,mine,GUIDE 4.5,Keep mine label per review; export unchanged.
+D03.png,hand,on_wheel,khác giá trị (IoU=0.84),unknown,yes,mine,GUIDE 4.7,Keep mine label per review; export unchanged.
+D05.png,face,gaze_zone,khác giá trị (IoU=0.79),road,lap,mine,GUIDE 4.5,Keep mine label per review; export unchanged.
+D06.png,person,seatbelt,khác giá trị (IoU=0.78),worn_correct,unknown,mine,GUIDE 4.7,Keep mine label per review; export unchanged.
+D06.png,face,glasses,khác giá trị (IoU=0.59),clear,unknown,mine,GUIDE 4.5,Keep mine label per review; export unchanged.
+S01_ir.png,object,type,khác giá trị (IoU=0.95),bag,other,mine,"GUIDE 4.4-4, 4.8",Keep mine label per review; export unchanged.
+S01_ir.png,child_seat,box,chỉ có ở peer (hoặc IoU thấp),,,mine,GUIDE 4.8,Keep mine label per review; export unchanged.
+S01_rgb.png,infant_seat,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,mine,GUIDE 4.8,Keep mine label per review; export unchanged.
+S01_rgb.png,object,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,mine,GUIDE 4.8,Keep mine label per review; export unchanged.
+S02_ir.png,face,box,chỉ có ở peer (hoặc IoU thấp),,,mine,"GUIDE 4.2, 4.5",Keep mine label per review; export unchanged.
+S03_ir.png,object,type,khác giá trị (IoU=0.81),cup,other,mine,"GUIDE 4.4-4, 4.8",Keep mine label per review; export unchanged.
+S03_ir.png,child_seat,box,chỉ có ở peer (hoặc IoU thấp),,,mine,GUIDE 4.8,Keep mine label per review; export unchanged.
+S03_rgb.png,object,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,mine,GUIDE 4.8,Keep mine label per review; export unchanged.
+S03_rgb.png,child_seat,box,chỉ có ở peer (hoặc IoU thấp),,,mine,GUIDE 4.8,Keep mine label per review; export unchanged.
+S04_ir.png,child_seat,box,chỉ có ở peer (hoặc IoU thấp),,,mine,GUIDE 4.8,Keep mine label per review; export unchanged.
+S04_rgb.png,object,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,mine,GUIDE 4.8,Keep mine label per review; export unchanged.
+S05_ir.png,object,type,khác giá trị (IoU=0.88),bag,cup,mine,"GUIDE 4.4-4, 4.8",Keep mine label per review; export unchanged.
+S05_ir.png,child_seat,box,chỉ có ở peer (hoặc IoU thấp),,,mine,GUIDE 4.8,Keep mine label per review; export unchanged.
+S05_rgb.png,object,type,khác giá trị (IoU=0.97),bag,cup,mine,GUIDE 4.8,Keep mine label per review; export unchanged.
+S05_rgb.png,child_seat,box,chỉ có ở peer (hoặc IoU thấp),,,mine,GUIDE 4.8,Keep mine label per review; export unchanged.
+S06_ir.png,child_seat,box,chỉ có ở peer (hoặc IoU thấp),,,mine,GUIDE 4.8,Keep mine label per review; export unchanged.
+S07_ir.png,child_seat,box,chỉ có ở peer (hoặc IoU thấp),,,mine,GUIDE 4.8,Keep mine label per review; export unchanged.
+S07_rgb.png,child_seat,box,chỉ có ở peer (hoặc IoU thấp),,,mine,GUIDE 4.8,Keep mine label per review; export unchanged.
+S08_ir.png,face,box,chỉ có ở peer (hoặc IoU thấp),,,mine,"GUIDE 4.2, 4.5",Keep mine label per review; export unchanged.
+S08_rgb.png,face,box,chỉ có ở peer (hoặc IoU thấp),,,mine,"GUIDE 4.2, 4.5",Keep mine label per review; export unchanged.
